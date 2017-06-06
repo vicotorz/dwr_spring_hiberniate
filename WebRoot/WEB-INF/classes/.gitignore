@@ -1,0 +1,5 @@
+/applicationContext-dao.xml
+/applicationContext-hibernate.xml
+/applicationContext-service.xml
+/com/
+/hibernate.cfg.xml
